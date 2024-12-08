@@ -1,4 +1,4 @@
-# Building Scalable Applications on AWS: A Journey from Configuration to Stress Testing Building Scalable Applications on AWS: A Journey from Configuration to Stress Testing
+# Building Scalable Applications on AWS: A Journey from Configuration to Stress Testing 
 
  ![picture alt](https://github.com/Moeketsi-ThatITGuy/AWS_PROJECT/blob/main/Screenshot%20(291).png "Scalable Architecture")
 
